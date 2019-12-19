@@ -37,7 +37,7 @@ class CustomReCaptcha extends Component {
                     size="normal"
                     data-theme="dark"
                     render="explicit"
-                    sitekey="6LeQDbUUAAAAAComSulb7sm4nhKjBPe_6pe-PHiE" //development
+                    sitekey="6LdWm8gUAAAAAL9A0OexGP3WF8qoxKBTK9DV3rT2" //development
                     // sitekey="6Ld2qb4UAAAAABiZzaHI6LPM0cUQ4BgGlbrLov8x" //Test environment IP
                     // sitekey="6LfXEr8UAAAAANMhGecFUimHtzhRrCWcrdXYZX_t" //IP for WA1
                     // sitekey="6LcnBLgUAAAAADpt8w7fLYn3Wdk2krpJDZy9FTC8" //production
